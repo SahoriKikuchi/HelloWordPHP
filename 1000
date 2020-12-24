@@ -1,0 +1,13 @@
+<?php
+
+/* Opção 1
+echo "Hello Wold!\n";
+*/
+
+ //Opção 2:
+ $frase = "Hello World!\n";
+ 
+ echo $frase;
+
+
+?>
